@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+
+    <string name="info">More information</string>
+    <string name="dialog_message">Click below to learn more</string>
+    <string name="dialog_title">More Information</string>
+    <string name="ok">Visit MOMA</string>
+    <string name="cancel">Not Now</string>
+</resources>

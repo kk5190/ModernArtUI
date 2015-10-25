@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="color1">0xff00ddff</integer>
+    <integer name="color2">0xff669900</integer>
+    <integer name="color3">0xffcc0000</integer>
+</resources>
